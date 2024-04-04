@@ -9,4 +9,4 @@ This flexible circuit board should make wiring the button board to the main boar
 
 Once it's verified to work, there will be a PCBway link here to where you can purcahse one.
 
-<img src="https://imgur.com/a/Pfdc6me">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Pfdc6me" data-context="false" ><a href="//imgur.com/a/Pfdc6me"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
