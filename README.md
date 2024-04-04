@@ -12,6 +12,7 @@ In addition to this flexboard you will need to source the following boards/parts
 |Faceplate and middle layer|[PCB Way](https://www.pcbway.com/project/shareproject/GachaSP_with_Speaker_Miniature_SP_console_4192a5ce.html)|
 |PCB Board for rewiring (and wiring diagram)|[PCB Way](https://www.pcbway.com/project/shareproject/Custom_button_board_for_GachaSP_fa33171a.html)|
 |Laminated GBA SP IPS Screen|[Retro Modding](https://www.retromodding.com/products/game-boy-advance-sp-ips-3-0inch-laminated-lcd)|
+|GBA SP Rubber Membranes|[Retro Modding](https://www.retromodding.com/products/gameboy-advance-sp-silicone-pads)|
 
 *Once it's verified to work, there will be a PCBway link here to where you can purcahse one.*
 
