@@ -9,4 +9,5 @@ This flexible circuit board should make wiring the button board to the main boar
 
 Once it's verified to work, there will be a PCBway link here to where you can purcahse one.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Pfdc6me" data-context="false" ><a href="//imgur.com/a/Pfdc6me"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img width="469" alt="Screenshot 2024-04-04 014550" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/94231352-35d4-4d72-8a0f-e54c8a3d68c9">
+
