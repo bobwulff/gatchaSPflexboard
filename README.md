@@ -18,6 +18,8 @@ In addition to this flexboard you will need to source the following boards/parts
 
 <img width="476" alt="Screenshot 2024-04-04 220240" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/df06dd13-ba18-4e10-a6b1-e3b1aefb6811">
 
+</br>
+
 <img width="407" alt="Screenshot 2024-04-04 220439" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/8c3b9d86-fcfd-45d2-9053-4ad00c5c9efb">
 
 
