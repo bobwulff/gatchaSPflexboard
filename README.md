@@ -16,5 +16,9 @@ In addition to this flexboard you will need to source the following boards/parts
 
 *Once it's verified to work, there will be a PCBway link here to where you can purcahse one.*
 
-<img width="469" alt="flexboard screen shot" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/94231352-35d4-4d72-8a0f-e54c8a3d68c9">
+<img width="476" alt="Screenshot 2024-04-04 220240" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/df06dd13-ba18-4e10-a6b1-e3b1aefb6811">
+
+<img width="407" alt="Screenshot 2024-04-04 220439" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/8c3b9d86-fcfd-45d2-9053-4ad00c5c9efb">
+
+
 
