@@ -2,7 +2,7 @@
 
 > :warning: **THIS IS UNTESTED! WE'RE STILL WORKING OUT THE SIZING. USE AT YOUR OWN RISK**
 
-This is designed to be used with the Game Boy Advance SP mod created by [Joseph Tompkins](https://ko-fi.com/josephtomkins) called the [Gacha SP](https://www.youtube.com/watch?v=QM45YnBbGOQ).
+This is designed to be used with the Game Boy Advance SP mod created by [Joseph Tomkins](https://ko-fi.com/josephtomkins) called the [Gatcha SP](https://www.youtube.com/watch?v=QM45YnBbGOQ).
 
 This flexible circuit board should make wiring the button board to the main board a lot easier.
 
@@ -17,7 +17,7 @@ In addition to this flexboard you will need to source the following boards/parts
 |GBA SP Buttons|[Amazon, Affiliate](https://amzn.to/3TEVo3e)|
 
 
-*Once it's verified to work, there will be a PCBway link here to where you can purcahse one.*
+*Once it's verified to work, there will be a PCBway link here to where you can purchase one.*
 
 <img width="476" alt="Screenshot 2024-04-04 220240" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/df06dd13-ba18-4e10-a6b1-e3b1aefb6811">
 
