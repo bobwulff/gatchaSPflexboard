@@ -1,4 +1,3 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
 GND1,TestPoint_Pad_1.5x1.5mm,1,TestPoint,
 "GND2, SPK1, SPK2, SPK3, SPK4, TP0, TP1, TP10, TP11, TP12, TP13, TP14, TP15, TP2, TP3, TP8, TP9",TestPoint_THTPad_D1.0mm_Drill0.5mm,17,TestPoint,
-"TP4, TP5, TP6, TP7",TestPoint-0.75mm,4,TestPoint,
