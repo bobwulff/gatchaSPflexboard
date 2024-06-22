@@ -21,11 +21,17 @@ In addition to this flexboard you will need to source the following boards/parts
 
 *Once it's verified to work, there will be a PCBway or JLCPCB link here to where you can purcahse one.*
 
-<img width="518" alt="image" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/4cf5ef37-539e-400e-ae76-c14922906c8b">
+<img width="494" alt="image" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/ff415dbd-7f4a-470b-b354-37d34234f70b">
 
 </br>
 
-![image](https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/bf86df59-b7d3-449a-9f1a-623efb815b1f)
+<img width="376" alt="image" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/01ab53ba-d5a0-4a35-ab5f-3d562d56816a">
+
+</br>
+
+<img width="697" alt="image" src="https://github.com/bobwulff/gatchaSPflexboard/assets/107164726/58f7cc89-e5d0-463c-bbde-54313ac689ee">
+
+
 
 
 
