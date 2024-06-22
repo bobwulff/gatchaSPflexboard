@@ -2,6 +2,7 @@
 
 > :warning: **THIS IS UNTESTED! WE'RE STILL WORKING OUT THE SIZING. USE AT YOUR OWN RISK**
 > <br>*Update Sunday April 14th, 2024: tweaked some positioning, but so far seems promising. I've re-ordered another test*
+> <br>*Update Saturday Jun 22nd: Jeez, has it been that long? Had to tweak some positionings again. Re-ordered more samples. There's a version of the GatchaSP as well, so I'll have to try this flex PCB with that shell. Maybe that'll warrant a whole new video?*
 
 This is designed to be used with the Game Boy Advance SP mod created by [Joseph Tompkins](https://ko-fi.com/josephtomkins) called the [Gacha SP](https://www.youtube.com/watch?v=QM45YnBbGOQ).
 
