@@ -1,7 +1,5 @@
 # gachaSP Flexboard
 
-> **updated video soon to come**
-
 This is designed to be used with the Game Boy Advance SP mod created by [Joseph Tompkins](https://ko-fi.com/josephtomkins) called the [Gacha SP](https://www.youtube.com/watch?v=QM45YnBbGOQ).
 
 This flexible circuit board should make wiring the button board to the main board a lot easier.
@@ -36,6 +34,9 @@ Download a zip file from the RELEASES section and upload straight to [PCB Way](h
 
 ![2024-09-23-13-27-59](https://github.com/user-attachments/assets/bd0ceb60-2b74-4b5a-8c48-e85ee99b4c1c)
 
+# Video Tutorial by Macho Nacho
+
+[![Video Tutorial by Macho Nacho](https://img.youtube.com/vi/eTtOYNLvQ2E/0.jpg)](https://www.youtube.com/watch?v=eTtOYNLvQ2E&t=426)
 
 </br>
 GOOD LUCK!
